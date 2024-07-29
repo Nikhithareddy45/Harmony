@@ -36,12 +36,12 @@ nav{
 .logo-title{
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 .logo-title img{
-  height:40px;
-  margin: 10px;
   position: absolute;
   left:30px;
+  height:3.2rem;
 }
 .nav-ul{
   display: flex;
